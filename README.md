@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/986e9ad1-935c-4ca2-ae1b-8c4d670da217)# マウスカーソル強調ツール（Edge拡張機能）
+# マウスカーソル強調ツール（Edge拡張機能）
 
 マウスの位置を視覚的に強調できるEdgeブラウザ拡張機能です。  
 画面共有や録画、オンライン授業・セミナーに最適！
